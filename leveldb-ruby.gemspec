@@ -1,3 +1,5 @@
+require 'find'
+
 Gem::Specification.new do |s|
  s.name = "leveldb-ruby"
  s.version = "0.15"
